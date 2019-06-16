@@ -1,6 +1,4 @@
-# Space Game ISU
-# Andrew Kang 599269
-# ICS3U0 June 2019
+# Space Shooters by Andrew Kang
 
 # imports libraries to be used throughout the game program
 import pygame, os, random, time
